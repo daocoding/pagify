@@ -6,7 +6,7 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 
 | Directory | What's in it |
 |---|---|
-| `hosting/` | Evaluated hosting platforms and domain registrars — free tiers, tradeoffs, deployment guides |
+| `hosting/` | Evaluated hosting platforms, domain registrars, and analytics options — free tiers, tradeoffs, deployment guides |
 | `seo/` | SEO patterns, meta tag templates, structured data examples |
 | `geo/` | Generative Engine Optimization — how to structure for AI search |
 | `architecture/` | Site structure patterns, multi-page conventions, file organization |

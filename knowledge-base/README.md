@@ -11,6 +11,7 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 | `geo/` | Generative Engine Optimization — how to structure for AI search |
 | `architecture/` | Site structure patterns, multi-page conventions, file organization |
 | `security/` | HTTP security headers, CSP configuration, and hardening guides |
+| `accessibility/` | WCAG compliance, screen reader support, keyboard navigation, legal context |
 | `agent-patterns/` | How Claws/agents interact with sites — maintenance, content updates |
 
 ## Contributing

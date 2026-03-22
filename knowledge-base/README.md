@@ -14,6 +14,13 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 | `accessibility/` | WCAG compliance, screen reader support, keyboard navigation, legal context |
 | `agent-patterns/` | How Claws/agents interact with sites — maintenance, content updates |
 
+### Architecture Guides
+
+| Guide | Purpose |
+|---|---|
+| `architecture/eleventy-project-structure.md` | Canonical file layout for Eleventy sites |
+| `architecture/forms-and-contact.md` | How to add contact forms to static sites — evaluated options with free tiers |
+
 ## Contributing
 
 Each entry should be:

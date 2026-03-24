@@ -12,6 +12,7 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 | `architecture/` | Site structure patterns, multi-page conventions, file organization |
 | `security/` | HTTP security headers, CSP configuration, and hardening guides |
 | `accessibility/` | WCAG compliance, screen reader support, keyboard navigation, legal context |
+| `i18n/` | Multilingual site patterns — directory-per-language, hreflang, CJK fonts, translation workflows |
 | `performance/` | Image optimization, Core Web Vitals, page speed — the stuff that makes SEO promises real |
 | `agent-patterns/` | How Claws/agents interact with sites — maintenance, content updates |
 

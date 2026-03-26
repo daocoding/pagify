@@ -8,6 +8,7 @@ Playbooks for AI agents (Claws) that build, maintain, and update Pagify sites.
 |---|---|
 | [Scaffold New Site](scaffold-new-site.md) | Taking a client from intake to deployed site |
 | [Content Update](content-update.md) | Adding or modifying pages on an existing site |
+| [Site Health Monitoring](site-health-monitoring.md) | Ongoing health checks — uptime, SSL, broken links, freshness |
 
 ## Who These Are For
 

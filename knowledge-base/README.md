@@ -14,6 +14,7 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 | `accessibility/` | WCAG compliance, screen reader support, keyboard navigation, legal context |
 | `i18n/` | Multilingual site patterns — directory-per-language, hreflang, CJK fonts, translation workflows |
 | `performance/` | Image optimization, Core Web Vitals, page speed — the stuff that makes SEO promises real |
+| `design/` | CSS foundations, color schemes, typography — no-framework visual patterns |
 | `agent-patterns/` | How Claws/agents interact with sites — maintenance, content updates |
 
 ### Architecture Guides

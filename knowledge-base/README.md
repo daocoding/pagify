@@ -16,6 +16,7 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 | `performance/` | Image optimization, Core Web Vitals, page speed — the stuff that makes SEO promises real |
 | `design/` | CSS foundations, color schemes, typography — no-framework visual patterns |
 | `agent-patterns/` | How Claws/agents interact with sites — maintenance, content updates |
+| `launch/` | Pre-launch checklist and post-launch maintenance guide — the full lifecycle |
 
 ### Architecture Guides
 
@@ -23,6 +24,13 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 |---|---|
 | `architecture/eleventy-project-structure.md` | Canonical file layout for Eleventy sites |
 | `architecture/forms-and-contact.md` | How to add contact forms to static sites — evaluated options with free tiers |
+
+### Launch Guides
+
+| Guide | Purpose |
+|---|---|
+| `launch/pre-launch-checklist.md` | Everything to verify before going live |
+| `launch/post-launch-maintenance.md` | Monthly, quarterly, and annual maintenance tasks to keep a site healthy |
 
 ## Contributing
 

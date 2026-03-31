@@ -17,6 +17,7 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 | `design/` | CSS foundations, color schemes, typography — no-framework visual patterns |
 | `agent-patterns/` | How Claws/agents interact with sites — maintenance, content updates |
 | `launch/` | Pre-launch checklist and post-launch maintenance guide — the full lifecycle |
+| `troubleshooting/` | Common errors, fixes, and debug checklists — what to do when things break |
 
 ### Architecture Guides
 
@@ -31,6 +32,12 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 |---|---|
 | `launch/pre-launch-checklist.md` | Everything to verify before going live |
 | `launch/post-launch-maintenance.md` | Monthly, quarterly, and annual maintenance tasks to keep a site healthy |
+
+### Troubleshooting Guides
+
+| Guide | Purpose |
+|---|---|
+| `troubleshooting/eleventy-common-errors.md` | Build failures, template errors, deployment issues — the errors coaches and agents actually hit |
 
 ## Contributing
 

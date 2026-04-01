@@ -17,7 +17,14 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 | `design/` | CSS foundations, color schemes, typography — no-framework visual patterns |
 | `agent-patterns/` | How Claws/agents interact with sites — maintenance, content updates |
 | `launch/` | Pre-launch checklist and post-launch maintenance guide — the full lifecycle |
+| `coaching/` | Guides for coaches — client intake, discovery sessions, the human side of Pagify |
 | `troubleshooting/` | Common errors, fixes, and debug checklists — what to do when things break |
+
+### Coaching Guides
+
+| Guide | Purpose |
+|---|---|
+| `coaching/client-intake-guide.md` | Run a structured discovery session — five questions, worksheet template, common pitfalls |
 
 ### Architecture Guides
 

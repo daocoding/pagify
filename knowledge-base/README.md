@@ -32,6 +32,7 @@ Pagify's growing collection of best practices, evaluations, and patterns for bui
 |---|---|
 | `architecture/eleventy-project-structure.md` | Canonical file layout for Eleventy sites |
 | `architecture/forms-and-contact.md` | How to add contact forms to static sites — evaluated options with free tiers |
+| `architecture/content-editing-options.md` | How non-technical site owners update content — Git CMS, headless CMS, agent-assisted, and decision matrix |
 
 ### Launch Guides
 

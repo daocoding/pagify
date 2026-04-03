@@ -1,0 +1,14 @@
+{
+  "name": "My Site",
+  "tagline": "Built with Pagify",
+  "url": "https://example.com",
+  "author": "Your Name",
+  "description": "A multi-page website built with Pagify — SEO and GEO ready.",
+  "language": "en",
+  "nav": [
+    { "text": "Home", "url": "/" },
+    { "text": "About", "url": "/about/" },
+    { "text": "Services", "url": "/services/" },
+    { "text": "Contact", "url": "/contact/" }
+  ]
+}

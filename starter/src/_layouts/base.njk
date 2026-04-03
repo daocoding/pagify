@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="{{ site.language | default('en') }}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ title }} — {{ site.name }}</title>
+  <meta name="description" content="{{ description | default(site.description) }}">
+
+  {# SEO: canonical URL #}
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+
+  {# GEO: structured data for AI search engines #}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "{{ title }}",
+    "description": "{{ description | default(site.description) }}",
+    "url": "{{ site.url }}{{ page.url }}",
+    "author": {
+      "@type": "Person",
+      "name": "{{ site.author }}"
+    }
+  }
+  </script>
+
+  <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+  <header>
+    <nav aria-label="Main navigation">
+      <a href="/" class="site-name">{{ site.name }}</a>
+      <ul>
+        {%- for item in site.nav %}
+        <li><a href="{{ item.url }}"{% if page.url == item.url %} aria-current="page"{% endif %}>{{ item.text }}</a></li>
+        {%- endfor %}
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    {{ content | safe }}
+  </main>
+
+  <footer>
+    <p>&copy; {% year %} {{ site.author }}. Built with <a href="https://github.com/daocoding/pagify">Pagify</a>.</p>
+  </footer>
+</body>
+</html>

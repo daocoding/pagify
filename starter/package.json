@@ -1,0 +1,13 @@
+{
+  "name": "pagify-starter",
+  "version": "1.0.0",
+  "description": "Pagify starter template — multi-page, SEO/GEO-ready static site for coaches",
+  "scripts": {
+    "dev": "npx @11ty/eleventy --serve",
+    "build": "npx @11ty/eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  },
+  "license": "MIT"
+}
